@@ -1,7 +1,7 @@
 #Internal package file, do not edit.
-#Wed Apr 17 21:31:52 SGT 2019
+#Wed Apr 17 21:55:19 SGT 2019
 0.baseType=DIRECTORY
-0.base=C\:\\Users\\itt\\Desktop\\DroidCafeOptionsUp\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.base=C\:\\Users\\itt\\Desktop\\DroidCafeOptionsUpChuaIttShiang\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
 0.path=classes.dex
 0.set=DEX
 count=1

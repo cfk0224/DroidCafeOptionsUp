@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\itt\\Desktop\\DroidCafeOptionsUp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "outputFile": "C:\\Users\\itt\\Desktop\\DroidCafeOptionsUpChuaIttShiang\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
             "map": [
                 {
                     "source": "C:\\Users\\itt\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\fae97a22b96f69b99d2cac794be9bdea\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",

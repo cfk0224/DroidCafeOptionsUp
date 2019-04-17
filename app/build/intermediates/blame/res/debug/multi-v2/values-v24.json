@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\itt\\Desktop\\DroidCafeOptionsUp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
+            "outputFile": "C:\\Users\\itt\\Desktop\\DroidCafeOptionsUpChuaIttShiang\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
             "map": [
                 {
                     "source": "C:\\Users\\itt\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\a4bd4a7fbda73d7bf78f4d0e25b37e45\\res\\values-v24\\values-v24.xml",
